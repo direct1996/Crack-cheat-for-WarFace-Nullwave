@@ -1,3 +1,15 @@
+# How to install?
+
+- Download the archive 
+
+- Unpack the archive to any location ( Password from the archive is GudCrack )
+
+- Run the file
+
+- Launch the game
+
+- In-game INSERT button
+
 # Functions
 
 # AIMBOT
